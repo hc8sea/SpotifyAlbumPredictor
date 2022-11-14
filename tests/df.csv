@@ -1,0 +1,81 @@
+,track_number,name,id,album,release_date,danceability,energy,mood,mode,tempo,key
+0,1,The View From The Afternoon,5eyTC5GZzpzlN7YRO9AoPf,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.387,0.922,0.417,0.0,146.478,9.0
+1,2,I Bet You Look Good On The Dancefloor,3DQVgcqaP3iSMbaKsd57l5,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.535,0.948,0.778,0.0,103.183,6.0
+2,3,Fake Tales Of San Francisco,7BuzJmV2h6eBbSDdRaDY7C,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.454,0.778,0.704,1.0,127.158,9.0
+3,4,Dancing Shoes,0hAMkY2kwdXPPDfQ1e3BmJ,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.522,0.889,0.852,1.0,144.499,1.0
+4,5,You Probably Couldn't See For The Lights But You Were Staring Straight At Me,111SaDBbcHW0zedi4RBHDp,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.58,0.972,0.926,0.0,105.492,11.0
+5,6,Still Take You Home,64a5XZCVDWwvC7gwPPCsH6,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.599,0.946,0.653,1.0,108.934,8.0
+6,7,Riot Van,4wMR4fRKMTyUJG6VAsmccv,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.593,0.333,0.258,1.0,103.537,9.0
+7,8,Red Light Indicates Doors Are Secured,56GFlp1dkt7dw56pQdTwqW,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.622,0.846,0.914,0.0,110.683,11.0
+8,9,Mardy Bum,2fyIS6GXMgUcSv4oejx63f,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.634,0.599,0.312,1.0,112.215,2.0
+9,10,Perhaps Vampires Is A Bit Strong But…,6Slvi85s1hIaeykjvDe1xk,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.371,0.914,0.394,0.0,134.982,11.0
+10,11,When The Sun Goes Down,2zzLRQ78kKfPTx8FJQCdC2,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.348,0.875,0.407,0.0,169.152,11.0
+11,12,From The Ritz To The Rubble,2vQQfWTanvD99OeHLAoyhW,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.216,0.882,0.656,0.0,189.286,11.0
+12,13,A Certain Romance,0eDQj41kzBhMKQIkTt6OJR,"Whatever People Say I Am, That's What I'm Not",2006-01-29,0.455,0.881,0.201,1.0,137.949,11.0
+13,1,Brianstorm,7f9I5WdyXm5q1XqnSYgQZb,Favourite Worst Nightmare,2007-04-22,0.42,0.974,0.463,1.0,165.182,1.0
+14,2,Teddy Picker,5kxVyCgEUND7E2QKG7JmoF,Favourite Worst Nightmare,2007-04-22,0.637,0.963,0.823,1.0,150.1,9.0
+15,3,D is for Dangerous,5RrHzXKmwVd5BCq4UzyJPd,Favourite Worst Nightmare,2007-04-22,0.555,0.925,0.77,1.0,145.061,1.0
+16,4,Balaclava,0ftMOhVfFm5Wbs5sZdEtsC,Favourite Worst Nightmare,2007-04-22,0.414,0.811,0.762,0.0,137.617,11.0
+17,5,Fluorescent Adolescent,2x8evxqUlF0eRabbW2JBJd,Favourite Worst Nightmare,2007-04-22,0.654,0.828,0.79,0.0,112.056,1.0
+18,6,Only Ones Who Know,71ytDkCnYc11VRiRCrhDHX,Favourite Worst Nightmare,2007-04-22,0.29,0.399,0.0965,0.0,128.37,7.0
+19,7,Do Me a Favour,2BqfIlpahcebJPeu1IUTEo,Favourite Worst Nightmare,2007-04-22,0.469,0.738,0.624,0.0,180.15,11.0
+20,8,This House is a Circus,0DKvcH4SCRdhVYTxStKx9h,Favourite Worst Nightmare,2007-04-22,0.476,0.844,0.658,1.0,155.322,7.0
+21,9,"If You Were There, Beware",0idZZsnM7nuSYanlpKTuwV,Favourite Worst Nightmare,2007-04-22,0.328,0.805,0.264,0.0,135.546,4.0
+22,10,The Bad Thing,4N2yjWLIxZjOXDrCu2VlJe,Favourite Worst Nightmare,2007-04-22,0.55,0.952,0.538,1.0,111.066,2.0
+23,11,Old Yellow Bricks,5KGbRvZyVyKP2AEJMHErB4,Favourite Worst Nightmare,2007-04-22,0.66,0.837,0.757,1.0,135.158,0.0
+24,12,505,0BxE4FqsDD1Ot4YuBXwAPp,Favourite Worst Nightmare,2007-04-22,0.526,0.866,0.248,1.0,140.266,0.0
+25,1,My Propeller,2hmHlBM0kPBm17Y7nVIW9f,Humbug,2009-08-20,0.415,0.657,0.69,0.0,115.752,9.0
+26,2,Crying Lightning,6wVWJl64yoTzU27EI8ep20,Humbug,2009-08-20,0.498,0.885,0.67,0.0,106.719,4.0
+27,3,Dangerous Animals,0pdp3VrR4WQaswf0GyT0Y0,Humbug,2009-08-20,0.34,0.922,0.532,1.0,125.363,3.0
+28,4,Secret Door,4dtP86vkhzwNXCFpCtizce,Humbug,2009-08-20,0.323,0.806,0.548,0.0,124.615,7.0
+29,5,Potion Approaching,3RHHXwyRtskFx87sX80xEy,Humbug,2009-08-20,0.421,0.758,0.767,0.0,103.659,4.0
+30,6,Fire And The Thud,6EMhO2CuQZ3u7ZKDRuf560,Humbug,2009-08-20,0.566,0.61,0.406,1.0,114.904,2.0
+31,7,Cornerstone,5bsnLiT00hG37qd8p2jdVl,Humbug,2009-08-20,0.287,0.721,0.763,1.0,169.252,9.0
+32,8,Dance Little Liar,3u16Clmxz7dJpnQWXXynok,Humbug,2009-08-20,0.538,0.607,0.543,0.0,100.158,1.0
+33,9,Pretty Visitors,45n7uujqwmMyBMjBu9SwRu,Humbug,2009-08-20,0.244,0.896,0.142,0.0,83.354,6.0
+34,10,The Jeweller's Hands,4PDPn7HosIycoXeoeibFc5,Humbug,2009-08-20,0.51,0.8,0.391,0.0,96.935,0.0
+35,1,She's Thunderstorms,5xw2cHVLw1rlDPp3cL9Zuv,Suck It and See,2011-06-06,0.505,0.898,0.731,1.0,118.929,7.0
+36,2,Black Treacle,7EUcOIbJSePmXGvAe7G79C,Suck It and See,2011-06-06,0.343,0.89,0.525,1.0,100.061,7.0
+37,3,Brick By Brick,49HYB8tppaxOsbBfeozPxu,Suck It and See,2011-06-06,0.285,0.807,0.542,1.0,132.206,2.0
+38,4,The Hellcat Spangled Shalalala,52M1FvGd0AkoUwcHL2L8jv,Suck It and See,2011-06-06,0.449,0.872,0.788,1.0,130.22,11.0
+39,5,Don't Sit Down 'Cause I've Moved Your Chair,3czdA0j4iaLDJJCoT5D8iP,Suck It and See,2011-06-06,0.434,0.912,0.315,1.0,119.729,9.0
+40,6,Library Pictures,0qfGWpvJGlp17wdTm19ioK,Suck It and See,2011-06-06,0.304,0.939,0.402,1.0,96.954,1.0
+41,7,All My Own Stunts,7cRR82VFtvy3FeqIrjEeFy,Suck It and See,2011-06-06,0.511,0.943,0.531,1.0,127.283,2.0
+42,8,Reckless Serenade,1bXLpqe49cqEpj88uPR4pu,Suck It and See,2011-06-06,0.585,0.694,0.785,1.0,127.966,2.0
+43,9,Piledriver Waltz,4Ai0ANRDYwx6mCD4Uty1WS,Suck It and See,2011-06-06,0.443,0.865,0.474,1.0,110.008,4.0
+44,10,Love is a Laserquest,0S6CXA5LpRDX6b4akgrOot,Suck It and See,2011-06-06,0.349,0.662,0.554,1.0,169.926,11.0
+45,11,Suck It and See,0LxeKwg9t7HOnyfv4bTALT,Suck It and See,2011-06-06,0.339,0.932,0.586,1.0,128.291,4.0
+46,12,That's Where You're Wrong,2fgQ8COnxtEvaTcNbEtsUf,Suck It and See,2011-06-06,0.481,0.883,0.46,1.0,135.937,4.0
+47,1,Do I Wanna Know?,5FVd6KXrgO9B3JPmC8OPst,AM,2013-09-09,0.548,0.532,0.405,1.0,85.03,5.0
+48,2,R U Mine?,2AT8iROs4FQueDv2c8q2KE,AM,2013-09-09,0.288,0.758,0.619,0.0,97.094,6.0
+49,3,One For The Road,6wNUBZNWFxdUGof6vkaykE,AM,2013-09-09,0.415,0.668,0.842,1.0,180.048,0.0
+50,4,Arabella,7nzsY8vlnKdvGOEE0rjAXZ,AM,2013-09-09,0.579,0.558,0.506,1.0,179.949,2.0
+51,5,I Want It All,1j9rezdE3YeC7yktZXC1em,AM,2013-09-09,0.499,0.81,0.288,1.0,131.052,5.0
+52,6,No. 1 Party Anthem,5TTGoX70AFrTvuEtqHK37S,AM,2013-09-09,0.505,0.698,0.599,1.0,115.013,0.0
+53,7,Mad Sounds,75n7mraeMycQOl2sDGYaTe,AM,2013-09-09,0.532,0.462,0.485,1.0,80.001,10.0
+54,8,Fireside,4atMrAadB7dS8xn9vfk9PQ,AM,2013-09-09,0.538,0.953,0.74,0.0,100.033,9.0
+55,9,Why'd You Only Call Me When You're High?,086myS9r57YsLbJpU0TgK9,AM,2013-09-09,0.691,0.631,0.8,1.0,92.004,2.0
+56,10,Snap Out Of It,0NdTUS4UiNYCNn5FgVqKQY,AM,2013-09-09,0.728,0.638,0.872,0.0,130.014,5.0
+57,11,Knee Socks,2LGdO5MtFdyphi2EihANZG,AM,2013-09-09,0.665,0.542,0.587,0.0,97.975,11.0
+58,12,I Wanna Be Yours,5XeFesFbtLpXzIVDNQP22n,AM,2013-09-09,0.464,0.417,0.479,0.0,67.528,0.0
+59,1,Star Treatment,3il0XLdvwDkRaHFGivS7Tg,Tranquility Base Hotel & Casino,2018-05-10,0.581,0.767,0.673,0.0,120.07,7.0
+60,2,One Point Perspective,08pCo8SdsJEKy67hxTnQzT,Tranquility Base Hotel & Casino,2018-05-10,0.714,0.585,0.842,1.0,77.104,8.0
+61,3,American Sports,0A1P0xwlVlyFpuKPyjWnYr,Tranquility Base Hotel & Casino,2018-05-10,0.372,0.865,0.594,0.0,176.689,7.0
+62,4,Tranquility Base Hotel & Casino,1d3xNugyNGvOQyyRBKaJ0o,Tranquility Base Hotel & Casino,2018-05-10,0.584,0.835,0.781,0.0,142.2,9.0
+63,5,Golden Trunks,5mkzrlK2cwfTqAniViv8gH,Tranquility Base Hotel & Casino,2018-05-10,0.492,0.564,0.0896,1.0,92.544,2.0
+64,6,Four Out Of Five,4JeTkHQcajdkhGwaGsaKMT,Tranquility Base Hotel & Casino,2018-05-10,0.601,0.863,0.676,1.0,130.189,0.0
+65,7,The World's First Ever Monster Truck Front Flip,7dWSVDMwoJXMqnG21AehRG,Tranquility Base Hotel & Casino,2018-05-10,0.602,0.601,0.553,1.0,145.075,10.0
+66,8,Science Fiction,5v0TxA50XIdt5nq7AUIiWX,Tranquility Base Hotel & Casino,2018-05-10,0.542,0.766,0.643,1.0,88.062,7.0
+67,9,She Looks Like Fun,6PcQ7PU2WqdvUkCh3pQ4gJ,Tranquility Base Hotel & Casino,2018-05-10,0.514,0.773,0.445,1.0,103.943,0.0
+68,10,Batphone,5HP2b1mP2BVHrgRHBNqt18,Tranquility Base Hotel & Casino,2018-05-10,0.675,0.681,0.675,0.0,106.521,5.0
+69,11,The Ultracheese,5jHsdC8SIhIisTGf6UWc0f,Tranquility Base Hotel & Casino,2018-05-10,0.476,0.555,0.426,1.0,131.497,9.0
+70,1,There’d Better Be A Mirrorball,4cVsyYAbxGcTIdLoooHTRC,The Car,2022-10-21,0.521,0.365,0.324,1.0,143.789,3.0
+71,2,I Ain’t Quite Where I Think I Am,2oga4f4xl2JGsLWiLSF6Nc,The Car,2022-10-21,0.544,0.337,0.667,1.0,192.685,10.0
+72,3,Sculptures Of Anything Goes,77mMSHbgFDTnVJ4xPIYUwo,The Car,2022-10-21,0.591,0.309,0.257,0.0,71.573,4.0
+73,4,Jet Skis On The Moat,6WoYIBgGZTI5vkfUaoVdhS,The Car,2022-10-21,0.651,0.244,0.395,1.0,149.759,7.0
+74,5,Body Paint,4Y9M5mNB71lX6RSpIu5Dk6,The Car,2022-10-21,0.556,0.315,0.256,0.0,143.327,7.0
+75,6,The Car,7yzr3fhBxJRHt6M24m1gKg,The Car,2022-10-21,0.428,0.365,0.236,0.0,94.033,4.0
+76,7,Big Ideas,32LmcNM8fk7p7OznN6y6ZH,The Car,2022-10-21,0.548,0.328,0.343,0.0,67.023,9.0
+77,8,Hello You,3iNeb273j5psVhQy8rZReg,The Car,2022-10-21,0.394,0.452,0.653,0.0,169.298,4.0
+78,9,Mr Schwartz,7yviviXNt3Ia5MKADOIVE1,The Car,2022-10-21,0.569,0.335,0.388,0.0,127.587,11.0
+79,10,Perfect Sense,2gYlET3zymQlXc3NSNgPGG,The Car,2022-10-21,0.52,0.478,0.545,1.0,82.932,4.0
