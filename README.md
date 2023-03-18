@@ -1,3 +1,1 @@
-This is an attempt to train, on the fly, a classification model that given a list of musical albums, is capable of infering in which one of these albums would belong a hypothetical song with hypothetical features.
-
-Example: given the complete list of the albums of The Strokes, where would I most likely find a song that is very sad but also very danceable? (hint: the model thinks it would be in Comedown Machine)
+This project aims to develop an on-the-fly classification model that can predict the album to which a hypothetical song would belong based on its features. For instance, given a list of musical albums, the model can predict the most likely album for a song that is very sad yet very danceable. As an example, when applied to the complete list of The Strokes albums, the model predicts that the song would most likely belong to the album Comedown Machine.
