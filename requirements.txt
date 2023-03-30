@@ -249,7 +249,7 @@ QtAwesome @ file:///tmp/build/80754af9/qtawesome_1637160816833/work
 qtconsole @ file:///opt/conda/conda-bld/qtconsole_1649078897110/work
 QtPy @ file:///opt/conda/conda-bld/qtpy_1649073884068/work
 queuelib==1.5.0
-redis==4.3.4
+redis>=4.3.6
 regex @ file:///tmp/build/80754af9/regex_1648447707500/work
 requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
